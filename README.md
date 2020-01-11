@@ -1,5 +1,7 @@
 # distance-estimation-from-2D-outdoor-images-using-commodity-hardware
-MSc. Thesis Informatics TUM
+MSc. Thesis Informatics TUM 
+
+This repository contains the constructed dataset and the predicted depth map outputs that are used in this master thesis.
 
 ## Abstract
 Safety in construction sites is essential because the industry is prone to accidents and dangerous situations. With the improving and expanding technology, computer vision can be used to ensure safety and reduce the accident rate.  As a contribution to an environmental health and safety project, a depth estimation framework is created to estimate distances and detect dangerous situations in construction sites. This thesis has two main deliverables.
